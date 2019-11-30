@@ -50,8 +50,8 @@ No navegador, testar as seguintes urls:
 
 * [.NetCore 3.0](https://docs.microsoft.com/pt-br/dotnet/core/about) - Framework utilizado
 * [MongoDB.Driver](https://docs.mongodb.com/ecosystem/drivers/csharp/) - Utilizado para criar conexão com mongodb
-* [Prometheus-net] - Gerar métricas de execução
-* [ElasticSearch] - Logging
+* [Prometheus-net](https://prometheus.io/docs/introduction/overview/) - Gerar métricas de execução
+* [ElasticSearch](https://www.elastic.co/pt/products/elasticsearch) - Logging
 
 ## Versioning
 
